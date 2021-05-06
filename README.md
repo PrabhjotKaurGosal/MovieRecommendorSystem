@@ -1,7 +1,7 @@
 # Movie Recommendor System
 
 ### Dataset Overview 
-Original Dataset: The dataset is divided into three sets.
+Original Dataset (Netflix Challenge dataset): The dataset is divided into three sets.
 1.	Training set 
 2.	Qualifying set 
 3.	Probe set
