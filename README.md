@@ -6,7 +6,9 @@ Original Dataset: The dataset is divided into three sets.
 2.	Qualifying set 
 3.	Probe set
 
-The difference between the qualifying set and the probe set is that the ratings for the qualifying set are withheld by Netflix and they are not released to public. The probe set, however, is created to help the participants test the accuracy of their methods before submitting the results for the qualifying set to Netflix.  Below is the breakdown of the data in numbers.
+The difference between the qualifying set and the probe set is that the ratings for the qualifying set are withheld by Netflix and they are not released to public. The probe set, however, is created to help the participants test the accuracy of their methods before submitting the results for the qualifying set to Netflix.  
+
+Below is the breakdown of the data in numbers.
 •	Total movies across the entire dataset: 17770
     Movie IDs range from 1 – 17770 with no gaps
 •	Total Customers/Users included in the entire dataset: 480189
