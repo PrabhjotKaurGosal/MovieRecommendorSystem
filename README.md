@@ -1,4 +1,4 @@
-# MovieRecommendorSystem
+# Movie Recommendor System
 
 ### Dataset Overview 
 Original Dataset: The dataset is divided into three sets.
