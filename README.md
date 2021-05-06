@@ -1,6 +1,6 @@
 # MovieRecommendorSystem
 
-Dataset Overview 
+### Dataset Overview 
 Original Dataset: The dataset is divided into three sets.
 1.	Training set 
 2.	Qualifying set 
@@ -21,7 +21,8 @@ Below is the breakdown of the data in numbers.
 •	The date of rating is also provided in the dataset. It is in the format YYYY-MM-DD
 
 
-Results
+###Results
+
 Method 1 		Method 4  (with part of the dataset)
 RMSE:	2.213309	
 MAS:	1.846437
