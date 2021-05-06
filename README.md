@@ -11,9 +11,12 @@ The difference between the qualifying set and the probe set is that the ratings 
 Below is the breakdown of the data in numbers.
 •	Total movies across the entire dataset: 17770
     Movie IDs range from 1 – 17770 with no gaps
+    
 •	Total Customers/Users included in the entire dataset: 480189
     Customer IDs range from 1 – 2649429, with gaps
+    
 •	The rantings are on a scale from 1 – 5 
+
 •	The date of rating is also provided in the dataset. It is in the format YYYY-MM-DD
 
 
