@@ -21,7 +21,7 @@ Below is the breakdown of the data in numbers.
 •	The date of rating is also provided in the dataset. It is in the format YYYY-MM-DD
 
 
-###Results
+### Results
 
 Method 1 		Method 4  (with part of the dataset)
 RMSE:	2.213309	
