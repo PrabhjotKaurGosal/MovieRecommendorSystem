@@ -23,7 +23,7 @@ Below is the breakdown of the data in numbers.
 
 ### Results
 
-Method 1 		
+Method 1 	
 RMSE:	2.213309	
 MAS:	1.846437
 
