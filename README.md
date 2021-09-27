@@ -24,18 +24,19 @@ Below is the breakdown of the data in numbers.
 ### Results
 
 Method 1 --	
-RMSE:	2.213309	
+RMSE:	2.213309	and 
 MAS:	1.846437
 
 Method 2 (with part of the dataset)	--
-RMSE: 1.08041	 
+RMSE: 1.08041	 and 
 MAS: 0.80641	
 
 Method 2 (with the entire dataset) --
-RMSE: 1.060477
+RMSE: 1.060477   and
 MAS: 0.77795	
 
 Method 4  (with part of the dataset) --
-RMSE: 0.368629
+RMSE: 0.368629  and
 MAS: 0.120844
 
+For details of all the four methods, see the full report and slides avaialble in this repo.
